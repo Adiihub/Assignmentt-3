@@ -1,0 +1,11 @@
+.error {
+    color: red;
+  }
+
+h2{
+    color : white;
+    border: 2px solid black;
+    padding: 30px;
+    background-color: darkblue;
+    text-align: center;
+}
